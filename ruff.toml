@@ -17,6 +17,9 @@ ignore = [
     "E501",  # line too long (handled by formatter)
 ]
 
+[lint.per-file-ignores]
+"src/pburp/server.py" = ["N803"]
+
 [lint.pydocstyle]
 convention = "google"
 

@@ -1,0 +1,6 @@
+{
+  "name": "pburp",
+  "description": "Python MCP bridge to Burp Suite with extras",
+  "version": "1.0.0",
+  "author": { "name": "pburp" }
+}
